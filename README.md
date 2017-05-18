@@ -5,17 +5,17 @@ Setting up the development environment is one of the most overlooked and oftenti
 The development environment is the set of processes and programming tools used to create the program or software product.
 
 For example:
-Node and npm
-Databases
-Text editor
+Node and npm,
+Databases,
+Text editor,
 Command Line Interface
 
 It is important to know what kind of environment you need to run your application properly. When you decide to deploy your application the correct environment has to be set up on the cloud that you are trying to deploy in.
 
 For example:
-Digital Ocean
-AWS
-Heroku
+Digital Ocean,
+AWS,
+Heroku,
 Google Cloud
 
 Instruction to set up correct environment is not always straight forward especially if you’re working with Window or Linux computers. There isn’t a exact links or website that tells you step by step how to setup your environment because environment your application need might be slightly different.
